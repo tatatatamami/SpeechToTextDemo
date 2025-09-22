@@ -1,0 +1,14 @@
+{
+    "servers": {
+        // GitHub MCP Server
+        "github": {
+            "type": "http",
+            "url": "https://api.githubcopilot.com/mcp/"
+        },
+        // Microsoft Learn MCP Server
+        "mslearn": {
+            "type": "http",
+            "url": "https://learn.microsoft.com/api/mcp"
+        }
+    }
+}
